@@ -1,18 +1,1 @@
 
-/* Your CSS Code here. */
-/* Style for the blockquote container */
-.questions {
-    background-color: #f8fffe;      /* Light background color */
-    height: 50px;                   /* Set a fixed height */
-    margin-top: 20px;               /* Space above each question */
-    padding: 15px;                  /* Padding inside the blockquote */
-    max-width: 600px;               /* Maximum width of the blockquote */
-    border-left: 8px solid green;   /* Left border with green color */
-}
-
-/* Optional: Style for the paragraph inside the blockquote to adjust text */
-.questions p {
-    margin: 0;                      /* Remove default margin for paragraphs */
-    font-size: 16px;                /* Adjust font size */
-    line-height: 30px;              /* Adjust line height for better spacing */
-}
